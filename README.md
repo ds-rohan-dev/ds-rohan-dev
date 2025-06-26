@@ -34,11 +34,6 @@
   <img src="https://raw.githubusercontent.com/ds-rohan-dev/ds-rohan-dev/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" /> <br>
 </div>
 
-## Spotify
-
- <a href="https://open.spotify.com/user/38qsqesuqes1woaigmsm9bejj">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=38qsqesuqes1woaigmsm9bejj&count=5&unique=true" alt="Spotify recently played" />
-  </a><br>
   
 ## 📊 GitHub Stats:
 
